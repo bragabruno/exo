@@ -10,7 +10,7 @@ install_requires = [
   "aiofiles==24.1.0",
   "grpcio==1.68.0",
   "grpcio-tools==1.68.0",
-  "Jinja2==3.1.4",
+  "Jinja2==3.1.5",
   "netifaces==0.11.0",
   "numpy==2.0.0",
   "nuitka==2.5.1",
