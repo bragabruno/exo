@@ -25,7 +25,7 @@ install_requires = [
   "rich==13.7.1",
   "tenacity==9.0.0",
   "tqdm==4.66.4",
-  "transformers==4.46.3",
+  "transformers==4.48.0",
   "uuid==1.30",
   "tinygrad @ git+https://github.com/tinygrad/tinygrad.git@3b26e51fcebfc6576f4e0f99693e6f1406d61d79",
 ]
